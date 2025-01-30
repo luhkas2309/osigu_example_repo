@@ -15,9 +15,9 @@ This repository contains the main application for Osigu's healthcare platform, p
 
 | Environment | Branch | Last Update | Changelog |
 |------------|--------|-------------|-----------|
-| Production | [main](https://github.com/osigu/app/tree/main) | 2024-03-15 | • Implemented new payment gateway<br>• Enhanced security protocols<br>• Fixed critical authentication bug |
-| Sandbox | [sandbox](https://github.com/osigu/app/tree/sandbox) | 2024-03-14 | • Testing new provider integration<br>• Updated UI components<br>• Added automated test suite |
-| Development | [develop](https://github.com/osigu/app/tree/develop) | 2024-03-13 | • Added new features for clinic management<br>• Refactored authentication system<br>• Implemented new API endpoints |
+| Production | [2.0.4](https://github.com/osigu/app/tree/main) | 2024-03-15 | • Implemented new payment gateway<br>• Enhanced security protocols<br>• Fixed critical authentication bug |
+| Sandbox | [2.0.5](https://github.com/osigu/app/tree/sandbox) | 2024-03-14 | • Testing new provider integration<br>• Updated UI components<br>• Added automated test suite |
+| Development | [3.0.1](https://github.com/osigu/app/tree/develop) | 2024-03-13 | • Added new features for clinic management<br>• Refactored authentication system<br>• Implemented new API endpoints |
 
 ## 🚀 Getting Started
 
