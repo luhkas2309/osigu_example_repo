@@ -1,4 +1,4 @@
-# <div align="center">![Osigu Logo]([https://partners.jpmorgan.com/on/demandware.static/-/Sites-at_catalog-marketplace/default/dwec1edac0/images/large/Osigu_logotype_642x379.png]))</div>
+# <div align="center">![Osigu Logo]([https://i.imgur.com/XYZ123.png](https://partners.jpmorgan.com/on/demandware.static/-/Sites-at_catalog-marketplace/default/dwec1edac0/images/large/Osigu_logotype_642x379.png))</div>
 
 <div align="center">
 
