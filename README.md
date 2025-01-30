@@ -1,4 +1,4 @@
-# <div align="center">![Osigu Logo](https://i.imgur.com/XYZ123.png)</div>
+# <div align="center">![Osigu Logo]([https://i.imgur.com/XYZ123.png](https://cdn.prod.website-files.com/66ffeb1bb0faa7e44a3a31a6/66ffeb1bb0faa7e44a3a321b_Rectangle.svg))</div>
 
 <div align="center">
 
